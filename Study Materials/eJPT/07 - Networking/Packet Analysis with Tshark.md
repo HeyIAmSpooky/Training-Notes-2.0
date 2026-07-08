@@ -1,7 +1,5 @@
 ---
 title: Packet Analysis with Tshark
-type:
-source:
 ---
 
 # Packet Analysis with Tshark

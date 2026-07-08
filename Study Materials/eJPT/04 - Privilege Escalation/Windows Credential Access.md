@@ -1,7 +1,5 @@
 ---
 title: Windows Credential Access
-type:
-source:
 ---
 
 # Windows Credential Access

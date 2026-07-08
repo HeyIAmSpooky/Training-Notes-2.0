@@ -1,7 +1,5 @@
 ---
 title: Netcat Shells
-type:
-source:
 ---
 
 # Netcat Shells

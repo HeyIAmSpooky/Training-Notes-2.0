@@ -1,7 +1,5 @@
 ---
 title: Linux Privilege Escalation
-type:
-source:
 ---
 
 # Linux Privilege Escalation

@@ -1,7 +1,5 @@
 ---
 title: Metasploit Enumeration and Scanning
-type:
-source:
 ---
 
 # Metasploit Enumeration and Scanning

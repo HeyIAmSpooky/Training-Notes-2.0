@@ -1,7 +1,5 @@
 ---
 title: ARP Poisoning
-type:
-source:
 ---
 
 # ARP Poisoning

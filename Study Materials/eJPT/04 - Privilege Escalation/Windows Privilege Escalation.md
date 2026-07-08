@@ -1,7 +1,5 @@
 ---
 title: Windows Privilege Escalation
-type:
-source:
 ---
 
 # Windows Privilege Escalation

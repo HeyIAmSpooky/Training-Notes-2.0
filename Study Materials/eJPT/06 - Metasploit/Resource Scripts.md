@@ -1,7 +1,5 @@
 ---
 title: Resource Scripts
-type:
-source:
 ---
 
 # Resource Scripts
@@ -11,14 +9,12 @@ source:
 
 
 
-## Sections in This Note
-- [[#Study Notes|Study Notes]]
+
 
 ---
 
-## Study Notes
-This section has been filled with study guidance so it remains useful even when the original source had little or no directly matched content. Use it as a review page, then follow the linked references and command sheets for syntax details.
-
+### Scripts
+- I am working on putting together a list of useful scripts
 ## Practical Checklist
 - Confirm scope and authorization.
 - Record exact commands and outputs.

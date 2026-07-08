@@ -1,7 +1,5 @@
 ---
 title: Metasploit Framework
-type:
-source:
 ---
 
 # Metasploit Framework

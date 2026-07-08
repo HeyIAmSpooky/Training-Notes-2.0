@@ -1,7 +1,5 @@
 ---
 title: Msfvenom and Payloads
-type:
-source:
 ---
 
 # Msfvenom and Payloads
