@@ -14,7 +14,7 @@ This site contains projects, documentation, notes, and other resources I have co
 
 ### Projects
 
-- * [Master Notes Compilation ](/Study Materials/eJPT)
+- * [Master Notes Table of Contents ](/Study Materials/eJPT/00 - Dashboard/Master Table of Contents.md)
 - Documentation: View Docs
 
 ### ProjectRepository:
